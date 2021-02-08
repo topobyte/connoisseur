@@ -4,6 +4,7 @@ if (project.hasProperty("topobyte")) {
 }
 
 dependencies {
+    api 'com.google.guava:guava:19.0'
 }
 
 def pomInfo = new XmlSlurper().parse(file('info.pom'));
