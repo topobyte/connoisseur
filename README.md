@@ -14,8 +14,8 @@ See [LGPL.md](LGPL.md) and [GPL.md](GPL.md) for details.
 We provide access to the artifacts via our
 [own Maven repository](https://mvn.topobyte.de) at these coordinates:
 
-    de.topobyte:connoisseur:0.0.1
+    de.topobyte:connoisseur-core:0.0.1
 
 You can also browse the repository online:
 
-<https://mvn.topobyte.de/de/topobyte/connoisseur/>
+<https://mvn.topobyte.de/de/topobyte/connoisseur-core/>
